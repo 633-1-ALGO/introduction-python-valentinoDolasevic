@@ -4,3 +4,12 @@
 
 nb_articles = 13
 prix_ht = 42.75
+
+tva = 7.7
+tvacalcule = (prix_ht * tva) / 100
+prix_ttc = tvacalcule + prix_ht
+
+print("Le prix TTC est de", prix_ttc*nb_articles, " chf.")
+
+
+
