@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boucle1">
+  <component name="RunManager" selected="Python.boucle2">
     <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +46,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boucle2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.2- Exercice - Boucle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,27 +117,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntroductionPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.1- Exercice - Traitement de string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="string2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boucle2" />
         <item itemvalue="Python.boucle1" />
         <item itemvalue="Python.condition2" />
         <item itemvalue="Python.condition1" />
         <item itemvalue="Python.string2" />
-        <item itemvalue="Python.string1" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +168,7 @@
     <MESSAGE value="test push intro" />
     <MESSAGE value="Exercice 1 terminer" />
     <MESSAGE value="Exercice 2 terminer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 2 terminer" />
+    <MESSAGE value="Exercices Terminer&#10;9.1&#10;9.2&#10;10.1&#10;10.2&#10;11.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercices Terminer&#10;9.1&#10;9.2&#10;10.1&#10;10.2&#10;11.1" />
   </component>
 </project>
